@@ -1,5 +1,6 @@
-![cat-scene](https://user-images.githubusercontent.com/87739674/181316119-107e1add-bdfd-4d6e-9d7f-bc0b37f5e0c9.svg)
 
+
+![20220711_123713](https://user-images.githubusercontent.com/87739674/181352688-0e815287-a3e5-4f18-8be5-41a5f4b99273.png)
 
 - 👋 Hi, I’m @MilesAngels
 - 👀 I’m interested in playing videogames, learning more about programming languages and web development.
