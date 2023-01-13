@@ -4,7 +4,7 @@
  -->
 - 👋 Hi, I’m @MilesAngels
 - 👀 I’m interested in playing videogames, learning more about programming languages and web development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C++, Sass, and PHP.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C++, Sass, PHP and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
