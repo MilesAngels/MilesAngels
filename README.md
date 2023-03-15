@@ -8,8 +8,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me milesmarieangels@gmail.com
 
-## Here are some links to projects that I worked on
-- [Bitwise Impact] https://bitwiseimpact.org/
+## Projects
+- [Bitwise Impact](https://bitwiseimpact.org/)
+- [VideoOut](https://videoout.org/)
 
 <!---
 MilesAngels/MilesAngels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
