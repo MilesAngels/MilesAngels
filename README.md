@@ -1,7 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/87739674/225416747-14859b68-f3db-464a-a5a2-5378da9123e5.png)
 
-
-<!-- ![20220711_123713](https://user-images.githubusercontent.com/87739674/181352688-0e815287-a3e5-4f18-8be5-41a5f4b99273.png)
- -->
 # Hi, I’m @MilesAngels!
 - 👀 I’m interested in playing videogames, learning more about programming languages and web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C++, Sass, PHP and Python.
