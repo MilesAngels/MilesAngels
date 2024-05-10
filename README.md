@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C++, Sass, PHP and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through milesmarieangels@gmail.com or at [LinkedIn](https://www.linkedin.com/in/miles-marie-angels/)
-- :clipboard: PortFolio: https://milesangels.com/
 
 ## Projects
 - [Bitwise Impact](https://bitwiseimpact.org/)
